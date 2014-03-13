@@ -1,0 +1,53 @@
+# Logfile created on 2014-03-12 11:49:18 -0700 by logger.rb/44203
+I, [2014-03-12T11:49:18.353607 #31050]  INFO -- : *** Below you'll find the most recent exception thrown, this will likely (but not certainly) be the exception that made your application exit abnormally ***
+E, [2014-03-12T11:49:18.353696 #31050] ERROR -- : wrong number of arguments (0 for 1) (ArgumentError)
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/config.rb:68:in `has_key?'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/config.rb:68:in `method_missing'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:335:in `block in _parse_options'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:328:in `each'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:328:in `_parse_options'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:67:in `initialize'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis.rb:31:in `new'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis.rb:31:in `initialize'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:3:in `new'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:3:in `<top (required)>'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:49:in `require'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:49:in `start'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:24:in `exec'
+bin/daemon-example:8:in `<main>'
+I, [2014-03-12T11:49:18.353819 #31050]  INFO -- : *** Below you'll find all the exception objects in memory, some of them may have been thrown in your application, others may just be in memory because they are standard exceptions ***
+E, [2014-03-12T11:49:18.357822 #31050] ERROR -- : stream closed (IOError)
+
+E, [2014-03-12T11:49:18.358144 #31050] ERROR -- : failed to allocate memory (NoMemoryError)
+
+E, [2014-03-12T11:49:18.358260 #31050] ERROR -- : stack level too deep (SystemStackError)
+
+E, [2014-03-12T11:49:18.358468 #31050] ERROR -- : exception reentered (fatal)
+
+E, [2014-03-12T11:49:18.360037 #31050] ERROR -- : Value will be available once the pipeline executes. (Redis::FutureNotReady)
+
+E, [2014-03-12T11:49:18.363596 #31050] ERROR -- : No such file or directory @ rb_sysopen - /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/backtrace-20140312114918-31050.log (Errno::ENOENT)
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:592:in `initialize'
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:592:in `open'
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:592:in `open_logfile'
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:549:in `initialize'
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:318:in `new'
+/Users/jasonkriss/.rvm/rubies/ruby-2.1.1/lib/ruby/2.1.0/logger.rb:318:in `initialize'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/safely-0.3.2/lib/safely/backtrace.rb:24:in `new'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/safely-0.3.2/lib/safely/backtrace.rb:24:in `log_exceptions'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/safely-0.3.2/lib/safely/backtrace.rb:10:in `block in enable!'
+E, [2014-03-12T11:49:18.363806 #31050] ERROR -- : wrong number of arguments (0 for 1) (ArgumentError)
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/config.rb:68:in `has_key?'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/config.rb:68:in `method_missing'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:335:in `block in _parse_options'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:328:in `each'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:328:in `_parse_options'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis/client.rb:67:in `initialize'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis.rb:31:in `new'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/redis-3.0.7/lib/redis.rb:31:in `initialize'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:3:in `new'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:3:in `<top (required)>'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:49:in `require'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:49:in `start'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:24:in `exec'
+bin/daemon-example:8:in `<main>'

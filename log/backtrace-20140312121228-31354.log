@@ -1,0 +1,29 @@
+# Logfile created on 2014-03-12 12:12:28 -0700 by logger.rb/44203
+I, [2014-03-12T12:12:28.337265 #31354]  INFO -- : *** Below you'll find the most recent exception thrown, this will likely (but not certainly) be the exception that made your application exit abnormally ***
+E, [2014-03-12T12:12:28.337309 #31354] ERROR -- : uninitialized constant JSON (NameError)
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:12:in `block in <top (required)>'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:7:in `loop'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:7:in `<top (required)>'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:38:in `require'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:38:in `run'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:21:in `exec'
+bin/daemon-example:8:in `<main>'
+I, [2014-03-12T12:12:28.337352 #31354]  INFO -- : *** Below you'll find all the exception objects in memory, some of them may have been thrown in your application, others may just be in memory because they are standard exceptions ***
+E, [2014-03-12T12:12:28.337651 #31354] ERROR -- : stream closed (IOError)
+
+E, [2014-03-12T12:12:28.337756 #31354] ERROR -- : failed to allocate memory (NoMemoryError)
+
+E, [2014-03-12T12:12:28.337803 #31354] ERROR -- : stack level too deep (SystemStackError)
+
+E, [2014-03-12T12:12:28.343753 #31354] ERROR -- : exception reentered (fatal)
+
+E, [2014-03-12T12:12:28.345039 #31354] ERROR -- : uninitialized constant JSON (NameError)
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:12:in `block in <top (required)>'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:7:in `loop'
+/Users/jasonkriss/Developer/hybrid_projects/daemon-example/libexec/daemon-example-daemon.rb:7:in `<top (required)>'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:38:in `require'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:38:in `run'
+/Users/jasonkriss/.rvm/gems/ruby-2.1.1/gems/daemon-kit-0.2.3/lib/daemon_kit/application.rb:21:in `exec'
+bin/daemon-example:8:in `<main>'
+E, [2014-03-12T12:12:28.346061 #31354] ERROR -- : Value will be available once the pipeline executes. (Redis::FutureNotReady)
+

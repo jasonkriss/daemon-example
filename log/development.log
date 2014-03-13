@@ -1,0 +1,221 @@
+# Logfile created on 2014-03-12 11:28:10 -0700 by logger.rb/44203
+2014-03-12 11:28:10.500646 daemon-example(30837) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:28:10.500814 daemon-example(30837) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:28:10.500934 daemon-example(30837) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:28:10.501042 daemon-example(30837) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:28:10.501153 daemon-example(30837) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:28:10.501260 daemon-example(30837) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:28:10.504583 daemon-example(30837) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:28:10.504741 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:29:10.505293 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:30:10.505838 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:31:10.508537 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:32:10.509077 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:33:10.509578 daemon-example(30837) [INFO] daemon-example-daemon.rb:16: I'm running
+2014-03-12 11:49:18.299288 daemon-example(31050) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:49:18.299980 daemon-example(31050) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:49:18.300177 daemon-example(31050) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:49:18.300288 daemon-example(31050) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:49:18.300399 daemon-example(31050) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:49:18.300501 daemon-example(31050) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:49:18.303430 daemon-example(31050) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:49:18.364387 daemon-example(31050) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 11:49:18.364491 daemon-example(31050) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 11:51:31.331802 daemon-example(31061) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:51:31.331969 daemon-example(31061) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:51:31.332115 daemon-example(31061) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:51:31.332241 daemon-example(31061) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:51:31.332383 daemon-example(31061) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:51:31.332523 daemon-example(31061) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:51:31.333725 daemon-example(31061) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:51:31.365675 daemon-example(31061) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 11:51:31.365756 daemon-example(31061) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 11:52:43.215120 daemon-example(31066) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:52:43.215266 daemon-example(31066) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:52:43.215353 daemon-example(31066) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:52:43.215433 daemon-example(31066) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:52:43.215506 daemon-example(31066) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:52:43.215580 daemon-example(31066) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:52:43.216743 daemon-example(31066) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:53:26.408614 daemon-example(31070) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:53:26.408762 daemon-example(31070) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:53:26.408846 daemon-example(31070) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:53:26.408945 daemon-example(31070) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:53:26.409069 daemon-example(31070) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:53:26.409214 daemon-example(31070) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:53:26.410471 daemon-example(31070) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:53:26.442050 daemon-example(31070) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 11:53:26.442144 daemon-example(31070) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 11:53:34.976705 daemon-example(31072) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:53:34.976884 daemon-example(31072) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:53:34.976997 daemon-example(31072) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:53:34.977093 daemon-example(31072) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:53:34.977222 daemon-example(31072) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:53:34.977337 daemon-example(31072) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:53:34.978637 daemon-example(31072) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:53:35.2268 daemon-example(31072) [INFO] daemon-example-daemon.rb:5: oahi
+2014-03-12 11:53:52.722354 daemon-example(31073) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:53:52.722514 daemon-example(31073) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:53:52.722657 daemon-example(31073) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:53:52.722786 daemon-example(31073) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:53:52.722918 daemon-example(31073) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:53:52.723040 daemon-example(31073) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:53:52.724327 daemon-example(31073) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:53:52.751511 daemon-example(31073) [INFO] daemon-example-daemon.rb:5: #<DaemonKit::Config:0x007faf5511d940>
+2014-03-12 11:55:29.947905 daemon-example(31083) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:55:29.948504 daemon-example(31083) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:55:29.948607 daemon-example(31083) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:55:29.948681 daemon-example(31083) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:55:29.948755 daemon-example(31083) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:55:29.948825 daemon-example(31083) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:55:29.950049 daemon-example(31083) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:55:29.975047 daemon-example(31083) [INFO] daemon-example-daemon.rb:7: #<DaemonKit::Config:0x007fc9ad9f0578>
+2014-03-12 11:55:51.819017 daemon-example(31085) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:55:51.819184 daemon-example(31085) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:55:51.819332 daemon-example(31085) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:55:51.819458 daemon-example(31085) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:55:51.819612 daemon-example(31085) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:55:51.819745 daemon-example(31085) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:55:51.821020 daemon-example(31085) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:55:51.845069 daemon-example(31085) [INFO] daemon-example-daemon.rb:7: #<DaemonKit::Config:0x007fb0799e86b8>
+2014-03-12 11:56:09.464096 daemon-example(31087) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:56:09.464349 daemon-example(31087) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:56:09.464501 daemon-example(31087) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:56:09.464625 daemon-example(31087) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:56:09.464756 daemon-example(31087) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:56:09.464886 daemon-example(31087) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:56:09.466095 daemon-example(31087) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:56:09.500131 daemon-example(31087) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 11:56:09.500257 daemon-example(31087) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 11:56:38.182000 daemon-example(31091) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:56:38.182169 daemon-example(31091) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:56:38.182316 daemon-example(31091) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:56:38.182445 daemon-example(31091) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:56:38.182601 daemon-example(31091) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:56:38.182732 daemon-example(31091) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:56:38.183936 daemon-example(31091) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:56:58.543475 daemon-example(31093) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:56:58.543621 daemon-example(31093) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:56:58.543701 daemon-example(31093) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:56:58.543772 daemon-example(31093) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:56:58.543842 daemon-example(31093) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:56:58.543919 daemon-example(31093) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:56:58.545466 daemon-example(31093) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:58:16.980300 daemon-example(31099) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:58:16.980460 daemon-example(31099) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:58:16.980596 daemon-example(31099) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:58:16.980733 daemon-example(31099) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:58:16.980863 daemon-example(31099) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:58:16.980982 daemon-example(31099) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:58:16.982236 daemon-example(31099) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:58:17.18516 daemon-example(31099) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 11:58:17.18618 daemon-example(31099) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 11:58:37.873454 daemon-example(31103) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:58:37.873653 daemon-example(31103) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:58:37.873782 daemon-example(31103) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:58:37.873905 daemon-example(31103) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:58:37.874031 daemon-example(31103) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:58:37.874148 daemon-example(31103) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:58:37.876045 daemon-example(31103) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 11:59:05.498805 daemon-example(31105) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 11:59:05.498966 daemon-example(31105) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 11:59:05.499101 daemon-example(31105) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 11:59:05.499260 daemon-example(31105) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 11:59:05.499398 daemon-example(31105) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 11:59:05.499524 daemon-example(31105) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 11:59:05.500681 daemon-example(31105) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 12:12:28.290784 daemon-example(31354) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 12:12:28.291308 daemon-example(31354) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 12:12:28.291447 daemon-example(31354) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 12:12:28.291572 daemon-example(31354) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 12:12:28.291706 daemon-example(31354) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 12:12:28.291826 daemon-example(31354) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 12:12:28.294622 daemon-example(31354) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 12:12:28.349315 daemon-example(31354) [INFO] [daemon-kit]: Running shutdown hooks
+2014-03-12 12:12:28.349415 daemon-example(31354) [WARN] [daemon-kit]: Shutting down daemon-example
+2014-03-12 12:13:00.60094 daemon-example(31357) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 12:13:00.60319 daemon-example(31357) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 12:13:00.60455 daemon-example(31357) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 12:13:00.60580 daemon-example(31357) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 12:13:00.60734 daemon-example(31357) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 12:13:00.60846 daemon-example(31357) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 12:13:00.62176 daemon-example(31357) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 17:06:36.838388 daemon-example(32755) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 17:06:36.838978 daemon-example(32755) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 17:06:36.839093 daemon-example(32755) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 17:06:36.839169 daemon-example(32755) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 17:06:36.839259 daemon-example(32755) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 17:06:36.839374 daemon-example(32755) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 17:06:36.842659 daemon-example(32755) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 17:12:15.201941 daemon-example(32783) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 17:12:15.202208 daemon-example(32783) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 17:12:15.202329 daemon-example(32783) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 17:12:15.202440 daemon-example(32783) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 17:12:15.202555 daemon-example(32783) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 17:12:15.202660 daemon-example(32783) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 17:12:15.205314 daemon-example(32783) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 17:12:15.251247 daemon-example(32783) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 17:13:02.918900 daemon-example(32789) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 17:13:02.919141 daemon-example(32789) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 17:13:02.919266 daemon-example(32789) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 17:13:02.919367 daemon-example(32789) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 17:13:02.919473 daemon-example(32789) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 17:13:02.919586 daemon-example(32789) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 17:13:02.922529 daemon-example(32789) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 17:13:02.970334 daemon-example(32789) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 18:30:22.725072 daemon-example(33337) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 18:30:22.725776 daemon-example(33337) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 18:30:22.725924 daemon-example(33337) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 18:30:22.726029 daemon-example(33337) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 18:30:22.726135 daemon-example(33337) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 18:30:22.726233 daemon-example(33337) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 18:30:22.727678 daemon-example(33337) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 18:30:22.788033 daemon-example(33337) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 18:44:51.406016 daemon-example(33419) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 18:44:51.406767 daemon-example(33419) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 18:44:51.406908 daemon-example(33419) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 18:44:51.407007 daemon-example(33419) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 18:44:51.407110 daemon-example(33419) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 18:44:51.407204 daemon-example(33419) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 18:44:51.409856 daemon-example(33419) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 18:44:51.456876 daemon-example(33419) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 18:45:13.784494 daemon-example(33426) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 18:45:13.784714 daemon-example(33426) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 18:45:13.784824 daemon-example(33426) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 18:45:13.784921 daemon-example(33426) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 18:45:13.785022 daemon-example(33426) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 18:45:13.785154 daemon-example(33426) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 18:45:13.786449 daemon-example(33426) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 18:45:13.820512 daemon-example(33426) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 18:45:27.212858 daemon-example(33431) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 18:45:27.213107 daemon-example(33431) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 18:45:27.213258 daemon-example(33431) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 18:45:27.213373 daemon-example(33431) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 18:45:27.213479 daemon-example(33431) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 18:45:27.213576 daemon-example(33431) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 18:45:27.214828 daemon-example(33431) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 18:45:27.247447 daemon-example(33431) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 19:20:47.353519 daemon-example(33618) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 19:20:47.354211 daemon-example(33618) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 19:20:47.354382 daemon-example(33618) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 19:20:47.354487 daemon-example(33618) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 19:20:47.354593 daemon-example(33618) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 19:20:47.354691 daemon-example(33618) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 19:20:47.357522 daemon-example(33618) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 19:20:47.407000 daemon-example(33618) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 19:26:30.116851 daemon-example(33657) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 19:26:30.117455 daemon-example(33657) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 19:26:30.117633 daemon-example(33657) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 19:26:30.117795 daemon-example(33657) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 19:26:30.117970 daemon-example(33657) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 19:26:30.118128 daemon-example(33657) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 19:26:30.121005 daemon-example(33657) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 19:26:30.208506 daemon-example(33657) [INFO] daemon-example-daemon.rb:9: pidfile is /Users/jasonkriss/Developer/hybrid_projects/daemon-example/log/daemon-example.1.pid
+2014-03-12 19:30:22.110681 daemon-example(33683) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2014-03-12 19:30:22.111286 daemon-example(33683) [INFO] [daemon-kit]: Setting up trap for USR1
+2014-03-12 19:30:22.111409 daemon-example(33683) [INFO] [daemon-kit]: Setting up trap for USR2
+2014-03-12 19:30:22.111508 daemon-example(33683) [INFO] [daemon-kit]: Setting up trap for HUP
+2014-03-12 19:30:22.111613 daemon-example(33683) [INFO] [daemon-kit]: Setting up trap for INT
+2014-03-12 19:30:22.111710 daemon-example(33683) [INFO] [daemon-kit]: Setting up trap for TERM
+2014-03-12 19:30:22.114874 daemon-example(33683) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running daemon-example
+2014-03-12 19:30:22.157331 daemon-example(33683) [INFO] daemon-example-daemon.rb:9: pidfile is log/temp/ohai.pid
