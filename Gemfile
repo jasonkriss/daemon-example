@@ -8,6 +8,8 @@
 
 source 'https://rubygems.org'
 
+ruby '2.1.1'
+
 # daemon-kit
 gem 'daemon-kit'
 gem 'redis'
